@@ -6,6 +6,6 @@ This project requires the <a href="https://github.com/adafruit/Adafruit_NeoPixel
 and a microcontroller with at least 2 digital inputs and 1 pwm output like the atmel attiny85.
 </br>
 </br>
-more information can be found on <a href="https://hackaday.io/project/20364-animated-led-braketurn-signal"  target="_blank" >
+more information can be found on <a href="https://hackaday.io/project/20364-animated-led-braketurn-signals-for-rc-and-esk8"  target="_blank" >
 hackaday.io project page</a>.
 
